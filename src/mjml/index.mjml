@@ -14,6 +14,8 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
+      <mj-class name="T36-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="40px" font-weight="700"/>
+      <mj-class name="T36-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="40px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
       <mj-class name="T24-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="300"/>
       <mj-class name="T20-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="24px" font-weight="700"/>
@@ -21,6 +23,7 @@
       <mj-class name="T18-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="22px" font-weight="700"/>
       <mj-class name="T16-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700"/>
       <mj-class name="T16-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="400"/>
+      <mj-class name="T16-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="300"/>
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
@@ -31,6 +34,98 @@
     <mj-section padding="0">
       <mj-column>
         <mj-text align="center"><a style="color:#3f495a;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#3f495a;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se&nbsp;désinscrire&nbsp;de&nbsp;la&nbsp;liste&nbsp;de&nbsp;diffusion</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#32245e" padding="10px 20px">
+      <mj-column>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/bP0LZ5M/logo-Assurance-Blanc.png" alt="logo Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" padding-bottom="10px" background-color="#694190">
+      <mj-column>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/B2SDyqYs/assurance-Header-Jpo24012026.png" alt="Photos du bâtiment d'Ecosup Campus et presentation de la protection de la famille."/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px" background-color="#fbfbfb">
+      <mj-column>
+        <mj-text padding="0" padding-top="14px" align="center" mj-class="T36-700" color="#0D364F" text-transform="uppercase" letter-spacing="1px">Assurez votre avenir</mj-text>
+        <mj-text padding="0" align="center" mj-class="T24-300" color="#0D364F" letter-spacing="1px">avec <span style="font-weight:700">Ecosup</span> Assurance</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#fbfbfb" padding="20px 30px">
+      <mj-section padding="0">
+        <mj-column> 
+          <mj-button background-color="#d9cae7" color="#0D364F" font-size="16px" font-family="Roboto, Arial, Helvetica, sans-serif" padding="10px 25px" border-radius="10px" text-transform="uppercase">parcours en apprentissage</mj-button>
+          <mj-image padding="0" width="600px" src="https://i.ibb.co/mFvXTJL6/form-Assurance122025.png" alt=""/>
+          <mj-spacer height="30px"></mj-spacer>
+          <mj-text padding="0" align="center" mj-class="T20-300" color="#0D364F">Partageons un moment</mj-text>
+          <mj-text padding="0" align="center" mj-class="T20-300" color="#0D364F">d'<span style="font-weight:700">Information</span> et de <span style="font-weight:700">Convivialité</span></mj-text>
+          <mj-spacer height="10px"></mj-spacer>
+          <mj-text padding="0" align="center" mj-class="T20-700" color="#0D364F"><span style="font-size:24px;line-height:24px;">&#128197;</span> Mardi&nbsp;17&nbsp;février <span style="font-weight:300;">11h&nbsp;à&nbsp;14h</span></mj-text>
+          <mj-text padding="0" align="center" mj-class="T16-700" color="#0D364F">Ecosup&nbsp;Campus - Tourcoing</mj-text>
+          <mj-spacer height="30px"></mj-spacer>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="10px" background-color="#d9cae7" border-radius="15px">
+        <mj-column width="100%">
+          <mj-text padding="0" align="center" mj-class="T16-700" color="#0D364F" text-transform="uppercase">Au programme</mj-text>
+          <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T20-300" color="#0D364F">découvrir, échanger, se projeter.</mj-text>
+        </mj-column>
+        <mj-column padding="0 10px" vertical-align="top" width="50%">
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-700" color="#0D364F" text-transform="uppercase">&nbsp;Information</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Conférence métier,</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Présentation du parcours,</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Spéculations,</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Entreprises partenaires,</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Marché de l'emploi.</mj-text>
+        </mj-column>
+        <mj-column padding="0 10px" vertical-align="top" width="50%">
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-700" color="#0D364F" text-transform="uppercase">Convivialité</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">Place au cocktail déjeunatoire une moment pour discuter et pour toutes vos questions.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section padding="0px 30px" padding-bottom="30px" background-color="#fbfbfb">
+      <mj-column>
+        <mj-text padding="0" align="center" mj-class="T16-400" color="#0D364F">Places limitées, <span style="font-weight:700">inscription obligatoire</span></mj-text>
+        <mj-button href="#" background-color="#e60202" color="#ffffff" font-size="16px" font-family="Roboto, Arial, Helvetica, sans-serif" padding="10px 25px" border-radius="10px" text-transform="uppercase">Je m'inscris !</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px" padding-top="20px" background-color="#fbfbfb">
+      <mj-column width="450px">
+        <mj-text align="center" padding="0" mj-class="T24-300" color="#0D364F">Où nous trouver</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="10px" mj-class="T13-400" color="#0D364F">cliquez sur l'icon de votre choix pour organiser votre itinéraire</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 30px" padding-bottom="20px" background-color="#fbfbfb">
+      <mj-group width="225px">
+        <mj-column width="33.333333%">
+          <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#0D364F" padding="32px">
+      <mj-column width="320px">
+        <mj-image width="200px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/qMyL7QyR/ecosup-Campusblanc-Color.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#d2d7df" target="_blank" href="https://www.google.com/maps/place/17+Pl.+Charles+et+Albert+Roussel,+59200+Tourcoing">17 Place Charles et Albert Roussel</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400" text-transform="uppercase"><a style="text-decoration:none;color:#d2d7df" target="_blank" href="https://www.google.com/maps/place/17+Pl.+Charles+et+Albert+Roussel,+59200+Tourcoing">59200 Tourcoing</a></mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#d2d7df;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#d2d7df;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#d2d7df;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px" padding-top="20px">
+      <mj-column width="320px">
+        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a"><a style="color:#3f495a;font-size:10px;font-weight:500" href="{{ mirror}}">Voir la version en ligne</a>           </mj-text>
+        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#3f495a;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a"><a style="color:#3f495a;font-size:10px;font-weight:500;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
