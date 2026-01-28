@@ -44,34 +44,34 @@
     <mj-section padding="0" padding-bottom="20px" background-color="#fbfbfb">
       <mj-group width="50%">
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/vxYmYYyR/color03.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/kgjWh8Md/assurance04-H.png" alt="."/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TB9zmkYh/assurance02.png" alt="."/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g4rHKPt/color01.png" alt="."/>
-        </mj-column>
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TxJ6rkCg/assurance01.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ccvYtBh5/color02H.png" alt="."/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g39KfM9/assurance01-Jpo29012026.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/HL94Zzdh/assurance02-H.png" alt="."/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g4rHKPt/color01.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/FLSVZvvD/color01H.png" alt="."/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/dw5jB9Bp/assurance02-Jpo29012026.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/FLSVZvvD/color01H.png" alt="."/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/vxYmYYyR/color03.png" alt="."/>
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/JR06Sh08/assurance03-H.png" alt="."/>
+        </mj-column>
+      </mj-group>
+      <mj-group width="50%">
+        <mj-column width="50%">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ccvYtBh5/color02H.png" alt="."/>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/GQmM27Tz/assurance01-H.png" alt="."/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -85,7 +85,7 @@
       <mj-section padding="0">
         <mj-column> 
           <mj-button background-color="#d9cae7" color="#0D364F" font-size="16px" font-family="Roboto, Arial, Helvetica, sans-serif" padding="10px 25px" border-radius="10px" text-transform="uppercase">parcours en apprentissage</mj-button>
-          <mj-image padding="0" width="600px" src="https://i.ibb.co/mFvXTJL6/form-Assurance122025.png" alt=""/>
+          <mj-image padding="0" width="600px" src="https://i.ibb.co/mFvXTJL6/form-Assurance122025.png" alt="Graphique des formations Bts, Bachelor et Mastère en Assurance et Banque chez Ecosup-Assurance" href="https://ecosup-assurance.fr"/>
           <mj-spacer height="30px"></mj-spacer>
           <mj-text padding="0" align="center" mj-class="T20-300" color="#0D364F">Partageons un moment</mj-text>
           <mj-text padding="0" align="center" mj-class="T20-300" color="#0D364F">d'<span style="font-weight:700">Information</span> et de <span style="font-weight:700">Convivialité</span></mj-text>
@@ -104,20 +104,20 @@
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-700" color="#0D364F" text-transform="uppercase">&nbsp;Information</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Conférence métier,</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Présentation du parcours,</mj-text>
-          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Spéculations,</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Spécialisations,</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Entreprises partenaires,</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Marché de l'emploi.</mj-text>
         </mj-column>
         <mj-column padding="0 10px" vertical-align="top" width="50%">
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-700" color="#0D364F" text-transform="uppercase">Convivialité</mj-text>
-          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">Place au cocktail déjeunatoire une moment pour discuter et pour toutes vos questions.</mj-text>
+          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">Place au cocktail déjeunatoire une moment pour échanger et pour répondre à toutes vos questions.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
     <mj-section padding="0px 30px" padding-bottom="30px" background-color="#fbfbfb">
       <mj-column>
         <mj-text padding="0" align="center" mj-class="T16-400" color="#0D364F">Places limitées, <span style="font-weight:700">inscription obligatoire</span></mj-text>
-        <mj-button href="#" background-color="#e60202" color="#ffffff" font-size="16px" font-family="Roboto, Arial, Helvetica, sans-serif" padding="10px 25px" border-bottom="6px solid #F0F4F2" border-right="6px solid #f0f0f0" border-radius="50px" text-transform="uppercase">Je m'inscris !</mj-button>
+        <mj-button href="https://forms.gle/27XJCVXVGx9Vd73d8" background-color="#e60202" color="#ffffff" font-size="16px" font-family="Roboto, Arial, Helvetica, sans-serif" padding="10px 25px" border-bottom="6px solid #F0F4F2" border-right="6px solid #f0f0f0" border-radius="50px" text-transform="uppercase">Je m'inscris !</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fbfbfb" padding="0px 30px" padding-top="20px">
