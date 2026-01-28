@@ -41,37 +41,21 @@
         <mj-image padding="0" align="center" width="153px" src="https://i.ibb.co/JR4j5txp/assurance-Logo.png" alt="logo Ecosup Assurance"/>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" padding-bottom="20px" background-color="#fbfbfb">
+    <mj-section padding="0 5px" padding-bottom="20px" background-color="#fbfbfb">
       <mj-group width="50%">
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/kgjWh8Md/assurance04-H.png" alt="."/>
+        <mj-column width="50%" padding="5px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/dw5jB9Bp/assurance02-Jpo29012026.png" alt="."/>
         </mj-column>
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ccvYtBh5/color02H.png" alt="."/>
+        <mj-column width="50%" padding="5px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TB9zmkYh/assurance02.png" alt="."/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/HL94Zzdh/assurance02-H.png" alt="."/>
+        <mj-column width="50%" padding="5px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TxJ6rkCg/assurance01.png" alt="."/>
         </mj-column>
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/FLSVZvvD/color01H.png" alt="."/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/FLSVZvvD/color01H.png" alt="."/>
-        </mj-column>
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/JR06Sh08/assurance03-H.png" alt="."/>
-        </mj-column>
-      </mj-group>
-      <mj-group width="50%">
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/ccvYtBh5/color02H.png" alt="."/>
-        </mj-column>
-        <mj-column width="50%">
-          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/GQmM27Tz/assurance01-H.png" alt="."/>
+        <mj-column width="50%" padding="5px">
+          <mj-image padding="0" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g39KfM9/assurance01-Jpo29012026.png" alt="."/>
         </mj-column>
       </mj-group>
     </mj-section>
