@@ -31,11 +31,6 @@
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f0f2f4" width="600px">
-    <mj-section padding="0">
-      <mj-column>
-        <mj-text align="center"><a style="color:#3f495a;font-size:10px;font-weight:500;line-height:12px" href="{{mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#3f495a;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se&nbsp;désinscrire&nbsp;de&nbsp;la&nbsp;liste&nbsp;de&nbsp;diffusion</a></mj-text>
-      </mj-column>
-    </mj-section>
     <mj-section background-color="#fbfbfb" padding="20px">
       <mj-column>
         <mj-image padding="0" align="center" width="153px" src="https://i.ibb.co/MkxR4gDG/assurance-Logo-Slogan.png" alt="logo Ecosup Assurance avec le slogan Gagnez en compétence."/>
@@ -140,13 +135,6 @@
         <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#d2d7df;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
         <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#d2d7df;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
         <mj-text padding="0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#d2d7df;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a> </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="30px" padding-top="20px">
-      <mj-column width="320px">
-        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a"><a style="color:#3f495a;font-size:10px;font-weight:500" href="{{ mirror}}">Voir la version en ligne</a>           </mj-text>
-        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a">Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#3f495a;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T10-300" color="#3f495a"><a style="color:#3f495a;font-size:10px;font-weight:500;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
