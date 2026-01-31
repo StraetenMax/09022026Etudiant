@@ -13,7 +13,7 @@
       <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
-      <mj-all font-family="Roboto, Arial, Helvetica,sans serif"/>
+      <mj-all font-family="Roboto, Arial, Helvetica,sans-serif"/>
       <mj-class name="T36-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="40px" font-weight="700"/>
       <mj-class name="T36-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="36px" line-height="40px" font-weight="300"/>
       <mj-class name="T24-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="24px" line-height="28px" font-weight="700"/>
@@ -38,24 +38,27 @@
     </mj-section>
     <mj-section background-color="#fbfbfb" padding="20px">
       <mj-column>
-        <mj-image padding="0" align="center" width="153px" src="https://i.ibb.co/JR4j5txp/assurance-Logo.png" alt="logo Ecosup Assurance"/>
+        <mj-image padding="0" align="center" width="153px" src="https://i.ibb.co/MkxR4gDG/assurance-Logo-Slogan.png" alt="logo Ecosup Assurance avec le slogan Gagnez en compétence."/>
       </mj-column>
     </mj-section>
     <mj-section padding="0 5px" padding-bottom="20px" background-color="#fbfbfb">
+      <mj-column width="100%">
+        <mj-text padding="0" align="center" mj-class="T16-300" color="#0D364F" text-transform="uppercase"><span style="font-size:18px;line-height:20px;font-weight:700">É</span>cole <span style="font-size:18px;line-height:20px;font-weight:700">S</span>upérieure en <span style="font-size:18px;line-height:20px;font-weight:700">A</span>ssurance</mj-text>
+      </mj-column>
       <mj-group width="50%">
         <mj-column width="50%" padding="5px">
-          <mj-image padding="0" align="right" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/dw5jB9Bp/assurance02-Jpo29012026.png" alt="."/>
+          <mj-image padding="0" align="right" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/QFkMFNLc/assurance04.png" alt="Transmettre le métier grâce à l'apprentissage."/>
         </mj-column>
         <mj-column width="50%" padding="5px">
-          <mj-image padding="0" align="left" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TB9zmkYh/assurance02.png" alt="."/>
+          <mj-image padding="0" align="left" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/dw5jB9Bp/assurance02-Jpo29012026.png" alt="Protéger tous les membres de la famille."/>
         </mj-column>
       </mj-group>
       <mj-group width="50%">
         <mj-column width="50%" padding="5px">
-          <mj-image padding="0" align="right" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/TxJ6rkCg/assurance01.png" alt="."/>
+          <mj-image padding="0" align="right" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/Kjr2kZ2h/assurance03.png" alt="Former grâce à des intervenants de qualité."/>
         </mj-column>
         <mj-column width="50%" padding="5px">
-          <mj-image padding="0" align="left" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g39KfM9/assurance01-Jpo29012026.png" alt="."/>
+          <mj-image padding="0" align="left" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/4g39KfM9/assurance01-Jpo29012026.png" alt="Assurer les biens et l'habitation."/>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -90,11 +93,11 @@
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Présentation du parcours,</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Spécialisations,</mj-text>
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Entreprises partenaires,</mj-text>
-          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Marché de l'emploi.</mj-text>
+          <mj-text padding="0" padding-bottom="20px" mj-class="T16-400" color="#0D364F">&#9679;&nbsp;&nbsp;Marché de l'emploi.</mj-text>
         </mj-column>
         <mj-column padding="0 10px" vertical-align="top" width="50%">
           <mj-text padding="0" padding-bottom="10px" mj-class="T16-700" color="#0D364F" text-transform="uppercase">Convivialité</mj-text>
-          <mj-text padding="0" padding-bottom="10px" mj-class="T16-400" color="#0D364F">Place au cocktail déjeunatoire une moment pour échanger et répondre à toutes vos questions.</mj-text>
+          <mj-text padding="0" padding-bottom="20px" mj-class="T16-400" color="#0D364F">Place au cocktail déjeunatoire un moment pour échanger et répondre à toutes vos questions.</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
